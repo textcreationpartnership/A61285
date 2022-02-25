@@ -1,0 +1,308 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bosome-piece for communicants. Or, The nature and design of the sacrament of the Lord's-Supper Laid open in a letter to Mrs, [sic] Eliz. Yearley, of Ockham in Surrey. By Joshua Stanley, late chaplain to the Lady Nicholas.</title>
+            <author>Stanley, Joshua, b. 1645 or 6.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61285</idno>
+            <idno type="STC">Wing S5235AA</idno>
+            <idno type="STC">ESTC R221890</idno>
+            <idno type="EEBO-CITATION">99833135</idno>
+            <idno type="PROQUEST">99833135</idno>
+            <idno type="VID">37610</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37610)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2063:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bosome-piece for communicants. Or, The nature and design of the sacrament of the Lord's-Supper Laid open in a letter to Mrs, [sic] Eliz. Yearley, of Ockham in Surrey. By Joshua Stanley, late chaplain to the Lady Nicholas.</title>
+                  <author>Stanley, Joshua, b. 1645 or 6.</author>
+               </titleStmt>
+               <extent>[4], 12, 21-36 p.   </extent>
+               <publicationStmt>
+                  <publisher>[printed and sold by Benj. Harris, at the corner of Grace church-street next Corn-hill],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from colophon.</note>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37610:1" rendition="simple:additions"/>
+            <p>A Boſome-Piece FOR COMMUNICANTS. OR, THE <hi>Nature</hi> and <hi>Deſign</hi> OF THE SACRAMENT Of the LORD's-SUPPER.</p>
+            <p>Laid Open in a Letter to Mrs. ELIZ. YEARLEY, of <hi>Ockham</hi> in <hi>Surrey.</hi>
+            </p>
+            <p>
+               <hi>By JOSH<g ref="char:V">Ʋ</g>A STANLEY,</hi> Late Chaplain to the Lady <hi>Nicholas.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1699.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37610:2"/>
+            <pb facs="tcp:37610:2"/>
+            <head>
+               <hi>To my truly Virtuous Cozen,</hi> Mrs. ELIZ. YEARLEY, <hi>of</hi> Ockham <hi>in</hi> Surry.</head>
+            <opener>
+               <salute>Madam, my dear Cozen!</salute>
+            </opener>
+            <p>
+               <hi>I</hi> must of neceſſity, return this <hi>Bo<g ref="char:EOLhyphen"/>ſome-Piece</hi> into your Brest again, leſt (unhappily) my Cold Affections Congeal ſo warm a Subject. Truly, I am apt often to Cenſure my ſelf with being a bad maſter to ſo Divine a piece; and fancy that it longs to be remitted Home, where it may follow it's wonted Exerciſe with a more Zealous Divinity. Take it, then, Madam, my dear Cozen! but not with a Belief, that it has made no Impreſſion on my obdurate Heart; but, to the Contrary, ſince thro' it's Merit, and the Author's Worth, I have made it to the Life <g ref="char:V">Ʋ</g>niverſal.</p>
+            <pb facs="tcp:37610:3"/>
+            <p>As to the Late Reverend Mr. <hi>Stanley's</hi> Letter, I have Preſum'd to Intitle it; <hi>A Boſome-Piece for Communicants,</hi> &amp;c. For, <hi>What Breſt-Plate ſo Armor-proof againſt the Aſſaults of Death and Hell, as the bleſſed Sacrament of our Re<g ref="char:EOLhyphen"/>deemer's Body and Blood?—</hi> A <hi>Breſt-plate</hi> as well to be worn by the <hi>Fair Sex,</hi> as others, to the making 'em <hi>Champions</hi> over the Vaſſals of Sin, and compleat <hi>Heroeſſes</hi> in Di<g ref="char:EOLhyphen"/>vinity, under the <hi>Banner</hi> of their <hi>GOD!</hi>
+            </p>
+            <p>In fine, the World may give a large Gueſs how Divine a Soul the now Happy Author had, and how cloſe his Zeal kept him to the Altar of his holy Jeſus, by the following <hi>Letter;</hi> which is, at your Command return'd Home in a more <g ref="char:V">Ʋ</g>niverſal Dreſs, from him who is,</p>
+            <closer>
+               <salute>Madam, my dear Cozen!</salute>
+               <signed>your Humble Servant, Benj. Harris, <hi>jun<hi rend="sup">r</hi>.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>Jan. 12. 1698.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:37610:3"/>
+            <head>A <hi>BOSOME-PIECE</hi> FOR Communicants: In a LETTER.</head>
+            <opener>
+               <salute>Betty!</salute>
+            </opener>
+            <p>BECAUSE you De<g ref="char:EOLhyphen"/>ſire to Receive the Sacrament, (and if you did not Deſire it, you would not be Fit to Receive it:) 'tis Fit you ſhould Under<g ref="char:EOLhyphen"/>ſtand in ſome Meaſure, the
+<pb n="2" facs="tcp:37610:4"/>Meaning of what you Do, and what you Receive, that ſo your Deſires may be In<g ref="char:EOLhyphen"/>creaſed in ſome Proportion to the Excellency of the Thing, and your Zeal may not be altogether without Knowledge. Therefore be Pleaſed to Accept, for the preſent, this Plain and Eaſy Direction.</p>
+            <p>FIRST,
+<note place="margin">I. <hi>What a Sacra<g ref="char:EOLhyphen"/>ment is.</hi>
+               </note> It is Fit you ſhould Underſtand, What a <hi>Sacrament</hi> is.</p>
+            <p>A <hi>Sacrament</hi> is a Seal of the Promiſes of GOD, made to us in CHRIST, where<g ref="char:EOLhyphen"/>in, by ſome Outward Signs, Commanded by GOD, and
+<pb n="3" facs="tcp:37610:4"/>Bleſſed by His Miniſter, our bleſſed Saviour, with all the Bleſſings he hath purchas'd for us, is Signifyed and Con<g ref="char:EOLhyphen"/>veyed to our Souls; and (that we may not Doubt) 'tis likewiſe a Pledge and Earneſt of all thoſe Things.</p>
+            <p>AND, the Reaſon that GOD gives us Spiritual Bleſſings, by Outward and Viſible Signs, is, That He may condeſcend to our weak Capacities, to Help our In<g ref="char:EOLhyphen"/>firmities, and Underſtand<g ref="char:EOLhyphen"/>ings, and to Strengthen our Faith, and to mind us of His Covenant with us, and of Ours with Him; for He Promiſes, Mercy, Grace,
+<pb n="4" facs="tcp:37610:5"/>Peace, and Pardon here, and Eternal Life Hereafter, to all thoſe that keep His Com<g ref="char:EOLhyphen"/>mandments, and come unto Him by Jeſus Chriſt; and we, for our part, promiſe all Duty, and Love, and a ſin<g ref="char:EOLhyphen"/>cere Obedience, to him again.</p>
+            <p>NOW as for the <hi>Sacra<g ref="char:EOLhyphen"/>ment</hi> of the <hi>Lord's-Supper,</hi>
+               <note place="margin">It's Na<g ref="char:EOLhyphen"/>ture open<g ref="char:EOLhyphen"/>ed briefly.</note> I ſhall lay down the Nature and Deſign of it in the plain<g ref="char:EOLhyphen"/>eſt method I can deviſe; de<g ref="char:EOLhyphen"/>riving it from the very Foun<g ref="char:EOLhyphen"/>tain, by explaining thoſe Texts of Scripture, wherein we find it deſcrib'd.</p>
+            <p>
+               <hi>[This do in remembrance of Me]</hi> This is a Command
+<note place="margin">
+                  <hi>Luc.</hi> 22.19.</note>
+               <pb n="5" facs="tcp:37610:5"/>of CHRIST,
+<note place="margin">1 <hi>Cor.</hi> 11.24.</note> which makes it an indiſpenſable Duty to every one that calls him<g ref="char:EOLhyphen"/>ſelf a Chriſtian, to come to the <hi>Sacrament,</hi> as ſoon as he underſtands it; and when he is come, it tells him, That 'tis his Duty to re<g ref="char:EOLhyphen"/>member that great Love, and bitter Sufferings of CHRIST dying for his Sins; which, how great ſo<g ref="char:EOLhyphen"/>ever, if we conſider the Malice of ſome, and the Frailties of all, might have been forgotten; unleſs re<g ref="char:EOLhyphen"/>membred, and continually fixed in our minds, by ſome viſible Sign or To<g ref="char:EOLhyphen"/>ken: And ſo by this—</p>
+            <pb n="6" facs="tcp:37610:6"/>
+            <p>
+               <hi>[WE ſhew the LORD's Death till he come.]</hi>
+               <note place="margin">1 <hi>Cor.</hi> 11.26.</note> That is, Declare openly, that we do ſeriouſly, and heartily Believe, that CHRIST did Dye for us, to Redeem us, and procure great Bleſ<g ref="char:EOLhyphen"/>ſings for us; ſome of which He beſtows here, eſpecial<g ref="char:EOLhyphen"/>ly in the <hi>Sacrament;</hi> and ſome of which He faith<g ref="char:EOLhyphen"/>fully keeps for us hereaf<g ref="char:EOLhyphen"/>ter. And beſides this, We ſhew, and offer unto GOD the Father, the Sufferings, the Obedience, and Sacri<g ref="char:EOLhyphen"/>fice of his Dear Son, plea<g ref="char:EOLhyphen"/>ding them, for that Pardon, and thoſe Graces, which we want: And this we do with all poſſible Praiſe, Hu<g ref="char:EOLhyphen"/>mility,
+<pb n="7" facs="tcp:37610:6"/>and Thankſgiving. And ſo 'tis call'd,</p>
+            <p>
+               <hi>[The Cup of Bleſſing;]</hi>
+               <note place="margin">1 <hi>Cor.</hi> 10.16.</note> Wherein we offer up our hearty Praiſes, and Adora<g ref="char:EOLhyphen"/>tion,</p>
+            <p>To GOD the Father, who gave His Son for us; and now is ready to give him to us.</p>
+            <p>To GOD the Son, who gave Himſelf for us; and now offers Himſelf to us, and to His Father for us. And,</p>
+            <p>To GOD the Holy-Ghoſt, thro' whom Chriſt was offered up; and who now conveys Him to us, with all the Benefits of that Eternal and Glorious
+<pb n="8" facs="tcp:37610:7"/>Sacrifice. And ſo tis call'd,</p>
+            <p>
+               <hi>[THE Communion of the Body,
+<note place="margin">1 <hi>Cor.</hi> 10.16.</note> and Blood of CHRIST.]</hi> That is, a holy Ordinance and Inſtitution, whereby GOD the Father does com<g ref="char:EOLhyphen"/>municate, and impart to worthy Receivers, all th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Benefits of CHRIST's Incarnation, Paſſion, Reſur<g ref="char:EOLhyphen"/>rection, and Aſcention; all which is meant by the Bo<g ref="char:EOLhyphen"/>dy and Blood of CHRIST, and all which good things are conveyed to us, and by thoſe outward Signs of Bread and Wine.</p>
+            <p>AND therefore, (ſaith CHRIST) after He had broke, and bleſſed the Bread,
+<pb n="9" facs="tcp:37610:7"/>
+               <hi>Take, Eat, this is my Body,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 26.26. <hi>Luc.</hi> 22.19. 1 <hi>Cor.</hi> 11.24.</note> and for the Cup, <hi>This is my Blood.</hi> Not that they are really ſo indeed; for you may ſee, and taſte it to be Bread and Wine; but they are the Figures, and Repreſentations of the Body and Blood of CHRIST. In Pictures, we ſay, this Pi<g ref="char:EOLhyphen"/>cture is a Man, and this is an Angel; that is, theſe Pict<g ref="char:EOLhyphen"/>ures do repreſent ſuch things. And therefore, when you ſee the Bread bleſſed, and bro<g ref="char:EOLhyphen"/>ken by the Miniſter, then lift up your Heart, and ima<g ref="char:EOLhyphen"/>gine to your ſelf, that you behold your dear Saviour's Body torn with Whips and Scourges, Crucified, and dy<g ref="char:EOLhyphen"/>ing upon the Croſs: And
+<pb n="10" facs="tcp:37610:8"/>ſo likewiſe, when the Wine is poured forth in Conſe<g ref="char:EOLhyphen"/>cration; think you ſee your Saviour's Side pierced, and His precious Blood ſtream<g ref="char:EOLhyphen"/>ing forth upon every pe<g ref="char:EOLhyphen"/>nitent Sinner, to waſh away his Stains and Corruptions: And then, think more ſadly with your ſelf, that your Sins have often done the ſame, and been as cruel in Crucifying the Lord of Glo<g ref="char:EOLhyphen"/>ry, and putting him to an open ſhame; and be migh<g ref="char:EOLhyphen"/>ty Humble, and mighty Thankful.</p>
+            <p>
+               <hi>FOR,
+<note place="margin">
+                     <hi>Mat.</hi> 26.28. <hi>Luc.</hi> 22.20.</note> this is the Blood of the New Teſtament, which is Shed for you, and for many,
+<pb n="11" facs="tcp:37610:8"/>for the Remiſſion of Sins.</hi>
+               <note place="margin">1 <hi>Cor.</hi> 11.25.</note> Now, this New Teſtament is nothing elſe, but the Se<g ref="char:EOLhyphen"/>cond Covenant, confirmed to us in the Blood of JE<g ref="char:EOLhyphen"/>SUS, wherein GOD pro<g ref="char:EOLhyphen"/>miſes Pardon to every Sin<g ref="char:EOLhyphen"/>ner that truly Repents, and Grace, and Peace, in this Life, and Glory hereafter: And here it is in this <hi>Sa<g ref="char:EOLhyphen"/>crament,</hi> which is call'd the Blood of the New Teſta<g ref="char:EOLhyphen"/>ment, that GOD Offers, and Seals, and Conveys to our Souls, all theſe Promi<g ref="char:EOLhyphen"/>ſes, and Bleſſings; and we by Faith do receive them, and at the ſame time enter into Covenant with him, to perform a Faithful, and
+<pb n="12" facs="tcp:37610:9"/>Sincere Obedience to all His Commands.</p>
+            <p>NOW, from theſe Places of Scripture, thus Explained, and made eaſy for any Ca<g ref="char:EOLhyphen"/>pacity, You may Obſerve, That this is the <hi>Nature</hi> and <hi>Deſign</hi> of the <hi>Sacrament</hi> of the LORD's Supper.</p>
+            <p>
+               <hi>THAT it is a Feast of Mer<g ref="char:EOLhyphen"/>cies,
+<note place="margin">☞</note> wherein we thankfully re<g ref="char:EOLhyphen"/>member the Great Love, and Bitter Sufferings of CHRIST; and firmly Believe to be a Seal of that Gracious Covenant, which GOD hath made with His Blood; and a Pledge or Earnest of all thoſe Benefits He hath procur'd for us, by
+<pb n="21" facs="tcp:37610:9"/>the Obedience of his Life and Death.</hi>
+            </p>
+            <p>AND here then it is, my Friend, that with an humble penitent Heart, and a lively Faith working by Love, you may Expect to receive ſpiritual nouriſhment for your Soul; and ſuch in<g ref="char:EOLhyphen"/>creaſe of Grace, as will enable you more and more for the work of your Salvation, and the Subduing of your Cor<g ref="char:EOLhyphen"/>ruptions, and the Reparing of your Infirmities, and the exerciſe of a Holy Religion, till GOD ſhall ſee you meet to be partaker of His Glo<g ref="char:EOLhyphen"/>ry.</p>
+            <p>AND therefore, here you muſt offer up your Self,
+<pb n="22" facs="tcp:37610:10"/>your Soul and Body, as a reaſonable Sacrifice, which being joyned to that Ob<g ref="char:EOLhyphen"/>lation of CHRIST upon the Altar is well-plea<g ref="char:EOLhyphen"/>ſing and acceptable unto GOD.</p>
+            <p>For you muſt underſtand that here the Miniſter offers up to God the Father, in the Name of all the Commu<g ref="char:EOLhyphen"/>nicants, the Paſſion and Sacrifice of his dearly be loved Son, as a Sacrifice ſtill Freſh and Powerful for our Pardon and Salvation. And as the Miniſter does this here, in a Sacramental way, ſo Chriſt, the true Preiſt, does really offer up Him<g ref="char:EOLhyphen"/>ſelf in Heaven to His Fa<g ref="char:EOLhyphen"/>ther,
+<pb n="23" facs="tcp:37610:10"/>for the Remiſſion and Expiation of all our Sins, who receive Him worthily; that is, with a true Repen<g ref="char:EOLhyphen"/>tance, and a lively Faith, a perfect Charity, and a great Love, Humility, and Devotion.</p>
+            <p>But as for your Prepara<g ref="char:EOLhyphen"/>tion, you will find your ſelf beſt Inſtructed out of your Practice of Piety, and, The Whole Duty of Man.</p>
+            <p>Only, I beſeech you, my Friend, that you would be very, Extreamly careful in your Examination, at ſome time, when you can, with conveniency retire, in Pri<g ref="char:EOLhyphen"/>vate;
+<pb n="24" facs="tcp:37610:11"/>for upon that, will de<g ref="char:EOLhyphen"/>pend much of the Efficacy, and Force, and Sincerity of your Repentance, and So Conſequently your wor<g ref="char:EOLhyphen"/>thy Communicating. For which I ſhall deſire you to look upon that Short Thing of Particulars, at the end of the Whole Du<g ref="char:EOLhyphen"/>ty of Man.</p>
+            <p>I commend this Form of the Explanation of the Sa<g ref="char:EOLhyphen"/>crament to you, no longer, than you ſhall be better Pro<g ref="char:EOLhyphen"/>vided for. I have deſign'd by this, to Eaſe your me<g ref="char:EOLhyphen"/>mory, and fix your Thoughts, and therefore I will trouble you no Further, but Com<g ref="char:EOLhyphen"/>mend
+<pb n="25" facs="tcp:37610:11"/>you to theſe Good Books; praying, That as you doe intend to receive The LORD JESUS CHRIST, ſo you would walk in Him; Rooted and built up in Him, and Sta<g ref="char:EOLhyphen"/>bliſhed in the Faith, wherein you have been Taught,
+<note place="margin">
+                  <hi>Col.</hi> 2.6.7.</note> abounding therein, with Thankſgiving.</p>
+            <closer>
+               <signed>
+                  <hi>Even ſo Prays your True Friend</hi> Joſhua Stanley.</signed>
+            </closer>
+         </div>
+         <div type="prayers">
+            <pb n="26" facs="tcp:37610:12"/>
+            <div type="prayer">
+               <head>
+                  <hi>A Prayer to be ſaid before you receive the</hi> Sacrament.</head>
+               <p>O Moſt merciful God, Who haſt in thy great goodneſs prepa<g ref="char:EOLhyphen"/>red this ſpiritual feaſt for ſick and famiſhed ſouls, make my deſires and gaſping after it, anſwerable to my needs of it. I have, with the prodi<g ref="char:EOLhyphen"/>gal, waſted that portion of grace thou beſtowedſt upon me; and therefore do infinitely want a ſup<g ref="char:EOLhyphen"/>ply out of this treaſury: But, O Lord, how ſhall ſuch a wretch as I dare to approach this holy Table? I am a Dog, how ſhall I preſume to take the Childrens bread? Or how ſhall this ſpiritual Manna, this food of Angels, be given to one who hath choſen to feed on husks with ſwine? Nay, to one who hath already ſo often trampled theſe pre<g ref="char:EOLhyphen"/>cio<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hings under foot, either care<g ref="char:EOLhyphen"/>leſly neglecting, or unworthily re<g ref="char:EOLhyphen"/>ceiving theſe holy myſteries? O Lord, my horrible guiltineſs makes
+<pb n="27" facs="tcp:37610:12"/>me tremble to come, and yet makes me not dare to keep away: for where, O Lord, ſhall my polluted Soul be waſhed, if not in this fountain which thou haſt opened for ſin and for uncleanneſs, Hither therefore I come, and thou haſt promiſed, that him that co<g ref="char:EOLhyphen"/>meth to thee, thou wilt in no wiſe caſt out: This is, O Lord, the blood of the New Teſtament; grant me ſo to receive it, that it may be to me for remiſſion of ſins, and though I have ſo often and ſo wretchedly broken my part of that Covenant, whereof this Sacrament is a Seal, yet be thou graciouſly pleaſed to make good thine; to be merciful to my unrighteouſneſs, and to re<g ref="char:EOLhyphen"/>member my ſins and my iniqui<g ref="char:EOLhyphen"/>ties no more; and not only ſo, but to put thy laws into my heart, and to write them in my mind, and by the Power of thy grace diſpoſe my Soul to ſuch a ſincere and conſtant obedience, that I may never again provoke thee. Lord, grant, that in
+<pb n="28" facs="tcp:37610:13"/>theſe holy myſteries I may not only commemorate, but effectually receive my bleſſed Saviour, and all the be<g ref="char:EOLhyphen"/>nifits of his Paſſion: and to that end give me ſuch a preparation of ſoul as may qualifie me for it, give me a deep ſenſe of my ſins and un<g ref="char:EOLhyphen"/>worthineſs, that being weary and heavy laden, I may be capable of his refreſhings, &amp; by being ſuppled in my own tears. I may be fitter to be waſhed in his Blood; raiſe up my dull and earthly mind from gro<g ref="char:EOLhyphen"/>velling here below, and inſpire it with a holy zeal, that I may with Spiritual Affection, approach this ſpiritual feaſt. And let, O Lord, that infinite love of Chriſt in dying for ſo wretched a ſinner, inflame my frozen benummed Soul<g ref="char:punc">▪</g> and kin<g ref="char:EOLhyphen"/>dle in me that ſacred fire of love to him, and that ſo vehement, that no waters may quench, no floods drown it, ſuch as may burn up all droſs, not leave one unmortified luſt in my ſoul, and ſuch as may alſo extend it ſelf
+<pb n="29" facs="tcp:37610:13"/>to all whom thou haſt given me command and example to love, even enemies as well as friends. Finally, O Lord, I beſeech thee to clothe me in thy wedding gar<g ref="char:EOLhyphen"/>ment, and make me, though of my ſelf moſt unworthy, yet by thy mercy an acceptable gueſt at this holy Table, that I may not eat and drink my own con<g ref="char:EOLhyphen"/>demnation, but may have my pardon ſealed, and my weakneſs repaired, my corruptions ſubdued and my ſoul ſo inſeparably uni<g ref="char:EOLhyphen"/>ted to thee, that no temptations may ever be able to diſſolve the Union; but that being begun here in grace, it may be con<g ref="char:EOLhyphen"/>ſummated in glory. Grant this O Lord, for thy dear Sons ſake, Jeſus Chriſt.</p>
+            </div>
+            <div type="prayer">
+               <head>Ejaculations to be uſed at the LORD's Table.</head>
+               <p>LORD, I am not worthy that thou ſhouldeſt come under <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> roof.</p>
+               <pb n="30" facs="tcp:37610:14"/>
+               <p>I have ſinned: What ſhall I do un<g ref="char:EOLhyphen"/>to thee, O thou preſerver of men?</p>
+               <p>
+                  <hi>[Here recollect ſome of thy greatest Sins.]</hi>
+               </p>
+               <p>If thou, Lord, ſhouldſt be ex<g ref="char:EOLhyphen"/>tream to mark what is done amiſs, O Lord, who may abide it.</p>
+               <p>But with the Lord there is mer<g ref="char:EOLhyphen"/>cy, and with him is plenteous Re<g ref="char:EOLhyphen"/>demption.</p>
+               <p>Behold, O Lord, thy beloved Son, in whom thou art well pleaſed. Hearken to the cry of his blood, which ſpeaketh better things then that of <hi>Abel.</hi>
+               </p>
+               <p>By his Agony and bloody Sweat, by his Croſs and Paſſion, good Lord deliver me.</p>
+               <p>O Lamb of God which takeſt away the ſins of the world, grant me thy Peace.</p>
+               <p>O Lamb of God which takeſt away the ſins of the world, have mercy upon me.</p>
+            </div>
+            <div type="prayer">
+               <pb n="31" facs="tcp:37610:14"/>
+               <head>Immediately before Receiving.</head>
+               <p>THou haſt ſaid that he that eat<g ref="char:EOLhyphen"/>eth thy Fleſh, and drinketh thy Blood, hath eternal Life.</p>
+               <p>Behold the ſervant of the Lord, be it unto me according to thy Word.</p>
+            </div>
+            <div type="prayer">
+               <head>At the Receiving of the Bread.</head>
+               <p>BY thy Crucified Body deliver me from this body of death.</p>
+            </div>
+            <div type="prayer">
+               <head>At the Receiving of the Cup.</head>
+               <p>O Let this blood of thine purge my Conſcience from dead works to ſerve the living God.</p>
+               <p>Lord, if thou wilt, thou canſt make me clean.</p>
+               <p>O touch me, and ſay, I will, be thou clean.</p>
+            </div>
+            <div type="prayer">
+               <pb n="32" facs="tcp:37610:15"/>
+               <head>After Receiving.</head>
+               <p>WHat ſhall I render unto the Lord for all the benefits he hath done unto me?</p>
+               <p>I will take the Cup of Salvation, and call upon the name of the Lord.</p>
+               <p>Worthy is the Lamb that was ſlain, to receive power, and riches, and wiſdom, and ſtrength, and ho<g ref="char:EOLhyphen"/>nour, and glory, and bleſſing.</p>
+               <p>Therefore bleſſing, honour, glo<g ref="char:EOLhyphen"/>ry and power be to him that ſitteth upon the Throne, and to the Lamb for ever and ever. <hi>Amen.</hi>
+               </p>
+               <p>I have ſworn, and am ſtedfaſtly purpoſed to keep thy righteous judgments.</p>
+               <p>O hold thou up my goings in thy paths, that my footſteps ſlip not.</p>
+            </div>
+            <div type="prayer">
+               <head>
+                  <hi>A Thankſgiving after the Re<g ref="char:EOLhyphen"/>ceiving of the</hi> Sacrament.</head>
+               <p>O Thou Fountain of all good<g ref="char:EOLhyphen"/>neſs, from whom every
+<pb n="33" facs="tcp:37610:15"/>good and Perfect gift cometh, and to whom all honour and glory ſhould be returned. I de<g ref="char:EOLhyphen"/>ſire with all the moſt fervent and inflamed affections of a grateful heart, to bleſs and praiſe thee for thoſe ineſtimable mercies thou haſt vouchſafed me. Lord, what is man that thou ſhouldeſt ſo regard him as to ſend thy beloved Son to ſuffer ſuch bitter things for him; But Lord, what am I, the worſt of men, that I ſhould have any part in this attonement, who have ſo often deſpiſed him, and his ſuffer<g ref="char:EOLhyphen"/>ings? O the height and depth of this mercy of thine, that art pleaſed to admit me to the renewing of that Covenant with thee, which I have ſo often, and ſo diverſly broken! That I, who am not worthy of that daily bread which ſuſtains the body, ſhould be made partaker of this bread of life, which nouriſheth the ſoul; and O Lord God, ſuffer me no
+<pb n="34" facs="tcp:37610:16"/>more, I beſeech thee, to turn thy grace into wantonneſs, to make thy mercy an occaſion of ſecurity, but let this unſpeakable love of thine conſtrain me to obedience; that ſince my bleſſed Lord hath died for me, I may no longer live up to my ſelf, but to him: O Lord, I know there is no con<g ref="char:EOLhyphen"/>cord between Chriſt and <hi>Belial,</hi> ſince he hath now been pleaſed to enter my heart, O let me never permit any luſt to chaſe him thence, but let him that ſo dearly lov'd me, ſtill keep poſſeſſion of me, and let nothing ever take me out of his hand. To this end be thou graciouſly plea<g ref="char:EOLhyphen"/>ſed to watch over me, and de<g ref="char:EOLhyphen"/>fend me from all my aſſaults of my ſpiritual enemies, but eſpecially deliver me from my ſelf, from the treachery of mine own heart, which is too willing to yield it ſelf up a prey: And where thou ſeeſt I am either by nature or cuſtom moſt weak,
+<pb n="35" facs="tcp:37610:16"/>there do I beſeech thee, magnify thy power in my preſervation. <hi>(Here mention thy moſt dangerous temptations.)</hi> And, Lord, let my Saviour's ſufferings for my ſins, and the Vows I have now made againſt them, never depart from my mind, but let the remembrance of the one enable me to perform the other, that I may never make truce with thoſe luſts which nailed his hands, pierced his ſide, and made his ſoul heavy to the death. But that having now new liſted, my ſelf under a new banner, I may fight manfully, and fol<g ref="char:EOLhyphen"/>low the Captain of my Salva<g ref="char:EOLhyphen"/>tion, even thrô a ſea of blood. Lord, lift up my hands that hang down, and my feeble knees, that I faint not in this warfare; O be thou my ſtrength, who am not able of my ſelf to ſtruggle with the ſlight<g ref="char:EOLhyphen"/>eſt temptations. How often have I turned my back in the day of bat<g ref="char:EOLhyphen"/>tel? How many of theſe Sacramen<g ref="char:EOLhyphen"/>tal vows have I violated? And Lord,
+<pb n="36" facs="tcp:37610:17"/>I have ſtill the ſame unconſtant de<g ref="char:EOLhyphen"/>ceitful heart to betray me to the breach of this. O thou, who art <hi>Yea,</hi> and Amen, in whom there is no ſhadow of change, communicate to me, I beſeech thee, ſuch a ſtabi<g ref="char:EOLhyphen"/>lity of mind, that I may no more thus ſtart aſide like a broken bow, but that having my heart whole with thee, I may continue ſtedfaſt in thy Covenant, that not one good purpoſe which thy Spirit hath rai<g ref="char:EOLhyphen"/>ſed in me this day may vaniſh, as ſo many have formerly done, but that they may bring forth fruit unto life eternal. Grant this, O merciful Father, thrô the merits and medi<g ref="char:EOLhyphen"/>ations of my Crucified Saviour, <hi>Amen.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>Benj. Harris,</hi> at the corner of <hi>Grace church-ſtreet</hi> next <hi>Corn-hill.</hi>
+            </p>
+            <pb facs="tcp:37610:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
